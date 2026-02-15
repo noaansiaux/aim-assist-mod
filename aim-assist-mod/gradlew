@@ -1,0 +1,5 @@
+#!/bin/sh
+# Gradle wrapper script - will be downloaded by GitHub Actions
+# This is just a placeholder, GitHub will use its own wrapper
+echo "This script should be run through GitHub Actions"
+echo "Or download the official Gradle wrapper from gradle.org"

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "aimassist",
+  "version": "1.0.0",
+  "name": "Simple Aim Assist",
+  "description": "Subtle aim assistance for PvP. Press RIGHT ALT to toggle.",
+  "authors": ["Custom"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.aimassist.AimAssistMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21"
+  }
+}
